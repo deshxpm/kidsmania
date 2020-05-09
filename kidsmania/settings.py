@@ -25,7 +25,7 @@ SECRET_KEY = '!)vx3k8ecwy8_%&9pg9qyg6@b+eb26^b631bw_3okha)^+inp1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['kidsmania.herokuapp.com']
+ALLOWED_HOSTS = ['kidsintellect.herokuapp.com']
 
 
 # Application definition
