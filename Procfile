@@ -1,1 +1,1 @@
-web: gunicorn kidsmania.wsgi --log-file -
+web: gunicorn kidsintellect.wsgi:application
