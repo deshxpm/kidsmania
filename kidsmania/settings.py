@@ -56,7 +56,7 @@ ROOT_URLCONF = 'kidsmania.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['kidsintellect.herokuapp.com'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
