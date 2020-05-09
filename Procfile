@@ -1,1 +1,1 @@
-web: gunicorn app:kidsintellect.wsgi
+web: gunicorn kidsintellect.wsgi:application --log-file - --log-level debug
