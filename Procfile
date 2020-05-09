@@ -1,1 +1,1 @@
-web: gunicorn app:kidsintellect
+web: gunicorn app:kidsintellect.wsgi
