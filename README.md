@@ -7,7 +7,7 @@ Step 2: create virtual env and activate
 Step 3: pip3 install -r requirements txt
 Step 4: create new file local_settings.py in main project for database configuration 
 
-
+NOTE: If any need please mail me on deshdeepakxpm@gmail.com
 
 Developers:
 
